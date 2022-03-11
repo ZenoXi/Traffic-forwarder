@@ -2,6 +2,7 @@
 An application for routing traffic through a proxy server to allow hosting on a system which cannot port-forward.
 
 **Why not just host on the proxy server?**
+
 Hosting something on your computer is quite convenient in certain use cases like the program having UI or wanting easier access to quickly interact with the program without connecting to the proxy server. However, the main problem being solved here is the cost of hosting. For example, if you have decent machine to host a Minecraft server (my personal reason for developing this), achieving the same level of performance with a host might cost a non-trivial amount. On the other hand, a server that can run this forwarder can be found for only a couple of dollars.
 
 **Downsides:**
